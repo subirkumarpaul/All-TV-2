@@ -599,3 +599,10 @@ https://live.tvdhaka.com:30443/globalbangla/jatv/chunks.m3u8
 https://live.tvdhaka.com:30443/live/telefilm/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA",MAGIC BANGLA TV
 https://cdn.appv.jagobd.com:444/live-orgin/magicbanglatv.stream/chunks.m3u8
+
+
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+http://185.145.43.244:8000/play/a004/index.m3u8
+http://185.145.43.244:8000/play/a008/index.m3u8
+http://185.145.43.244:8000/play/a009/index.m3u8
